@@ -1,0 +1,3 @@
+# AppHearsTics
+
+Plataforma en desarrollo
