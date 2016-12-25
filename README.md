@@ -14,3 +14,4 @@ Application developed to school sacred hearts
 * [Developed by Northern Software](http://softwaredelnorte.com)
 
 
+#Ing. Jhon Jairo Pérez
